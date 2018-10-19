@@ -1,4 +1,4 @@
-package io.vertx.starter;
+package io.vertx.guides.wiki.database;
 
 public enum ErrorCodes {
     NO_ACTION_SPECIFIED,
